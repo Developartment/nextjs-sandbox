@@ -1,0 +1,13 @@
+{
+    "extends": ["tslint:latest", "tslint-config-prettier"],
+    "rules": {
+        "no-submodule-imports": [
+            true,
+            "next/app",
+            "next/head",
+            "next/link",
+            "next/document",
+            "next/router"
+        ]
+    }
+}

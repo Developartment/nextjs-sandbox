@@ -1,0 +1,7 @@
+.idea
+.vscode
+.next/
+.now/
+out/
+node_modules/
+Dockerfile

@@ -1,0 +1,2 @@
+Contact: radek@radekhubner.com
+Preferred-Languages: en, cs
